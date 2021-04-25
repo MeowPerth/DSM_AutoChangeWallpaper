@@ -109,6 +109,5 @@ fi
 
 ## 友情链接
 * 原作者GitHub路径：```https://github.com/kkkgo/DSM_Login_BingWallpaper```
-* Aria2 P3TERX 完美安装脚本：```https://github.com/P3TERX/aria2.sh```
 ----
 ----  
